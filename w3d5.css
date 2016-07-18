@@ -1,0 +1,180 @@
+
+.navbar {margin-bottom: 0px !important;
+	background-color: #101010 !important;
+}
+.navbar-default{background-color: #101010 !important;
+	
+}
+.mgb{margin-bottom: 0px !important;
+
+}
+.navbar-brand{
+	color: #3498db;
+}
+.headerbg{
+	background: url('img/header_bg.jpg') no-repeat;
+	margin-top: 50px !important; 
+	height: 700px;
+ }
+.ta-c {
+	text-align: center;
+}
+.mainbottom{
+	border-bottom: 1px solid #ddd;
+}
+.whitecolor{
+	color: white;
+}
+.lightfont{font-weight: lighter;
+
+}
+.mainbg{
+	background: #f5f5f5;
+}
+.mainfont{
+	font-size: 40px;
+}
+.headerbg {padding-top: 150px !important;
+	text-shadow: 1px 1px 2px black;
+}
+.mgt{
+	margin-top: 50px
+}
+
+.headerbg p{
+	font-size: 55px;
+	color: white;
+	text-align: center;
+    font-weight:;
+}
+
+.maincolor{
+	color: #333 !important;
+}
+.maincolor2{
+	color:#737373;
+}
+.align-center{
+	text-align: center;
+}
+
+.about .firstside{padding-top: 70px;
+	
+	
+height: 300px;
+}
+.text .agency{ margin-top: 50px;
+	font-size: 40px;
+	
+}
+.agencytext1, .agencytext2{
+	font-size: 18px;
+	margin-top: 50px;
+margin-bottom: 50px;
+}
+.design, .design2,.design4 {
+	width: 100%;
+	background: url('img/bg/divider1.jpg') no-repeat;
+	height: 450px;
+	color: white;
+}
+.design,span, .design2 span{
+	
+	font-weight: lighter;
+	font-size: 50px;
+}
+
+.design, .design3 div{
+	position: relative;
+	top: 35% !important;
+}
+.design, .design2 p{ font-weight: lighter;
+	font-size: 25px;
+}
+
+.first, .second, .third{
+	margin-top: 50px;
+}
+.design2{
+	background: url('img/bg/divider2.jpg') repeat-y;
+}
+.design3{
+	height: 400px;
+	background: url('img/bg/divider3.jpg') 100% 100%no-repeat;
+	background-size:cover;
+}
+.design4{
+	height: 400px;
+	background: url('img/bg/divider4.jpg') 100% 100%no-repeat;
+	background-size:cover;
+}
+.design4 div{
+	position: relative;
+	top: 35% !important;
+	
+}
+.design2 div{
+	position: relative;
+	top: 35% !important;
+	
+
+}
+.design div{
+	position: relative;
+	top: 35% !important;
+	
+
+}
+.storyimg{ height: 300px;
+	background-color: #2B2B2B;
+}
+.storytext{
+	background-color: #F2F2F2;
+	height: 300px;
+	
+}
+.storytext span{
+	font-size: 40px;
+	color: black;
+}
+.more{ 
+	color: #428BCA;
+	text-decoration: none;
+}
+.design6{ 
+	color: white;
+	height: 400px;
+	background: url('img/bg/divider6.jpg') 100% 100%no-repeat;
+	background-size:cover;
+}
+.storytellers{
+	height: 500px;
+}
+.bgc2{
+	background-color: rgb(43,43,43);
+}
+.storytellers .col-md-4{
+	color: white;
+	text-align: center;
+	height: 500px;
+	background-color: rgb(43,43,43);
+}
+.end span{
+	color:#737373;
+	color: black;
+	font-size: 26px;
+    
+}
+.form-control{
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+.footer{ font-weight: lighter;
+	color: white;
+	height: 100px;
+	background-color:rgb(43,43,43) ;
+}
+.footer h3{
+	position: relative;
+	top: 30px;
+}
